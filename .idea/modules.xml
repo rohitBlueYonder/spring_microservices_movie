@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/edgeService/edgeService.iml" filepath="$PROJECT_DIR$/edgeService/edgeService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/movieServer/movieServer.iml" filepath="$PROJECT_DIR$/movieServer/movieServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/movieService/movieService.iml" filepath="$PROJECT_DIR$/movieService/movieService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/signupService/signupService.iml" filepath="$PROJECT_DIR$/signupService/signupService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/spring_microservices_movie.iml" filepath="$PROJECT_DIR$/.idea/spring_microservices_movie.iml" />
+    </modules>
+  </component>
+</project>

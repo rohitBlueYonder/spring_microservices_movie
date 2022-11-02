@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="movieServer" />
+        <module name="edgeService" />
+        <module name="movieService" />
+        <module name="signupService" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="edgeService" target="1.8" />
+      <module name="movieServer" target="17" />
+      <module name="movieService" target="1.8" />
+      <module name="signupService" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
